@@ -1,6 +1,6 @@
 # GraduationWorkRetroDemo_Win
 This is a Windows Build of the project!
-(It's a Mono build, since the IL2CPP build file size exceeded the maximum of 25MB)
+(This repository is mostly useless, since more than half of the files couldn't be uploaded due to them exceeding the 25MB file size limit.)
 
 This gameplay demo serves as part of the experiment for my graduation work project at Howest DAE.
 
